@@ -1,2 +1,3 @@
-# JobRotationExerc-ciosLeonardo
-Exercícios
+# JobRotationExercíciosLeonardo
+
+Exercícios ficarão nesse repositório.
